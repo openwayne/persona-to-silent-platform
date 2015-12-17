@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      "nodebb-theme-persona@https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.0.31.tgz",
+      "/home/server/nodebb"
+    ]
+  ],
+  "_from": "nodebb-theme-persona@4.0.31",
+  "_id": "nodebb-theme-persona@4.0.31",
+  "_inCache": true,
+  "_location": "/nodebb-theme-persona",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nodebb-theme-persona",
+    "raw": "nodebb-theme-persona@https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.0.31.tgz",
+    "rawSpec": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.0.31.tgz",
+    "scope": null,
+    "spec": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.0.31.tgz",
+    "type": "remote"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.0.31.tgz",
+  "_shasum": "16a226b09a2d95f4cf4816f714b54afe2c0eaa4b",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-theme-persona@https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.0.31.tgz",
+  "_where": "/home/server/nodebb",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+  },
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    }
+  ],
+  "dependencies": {},
+  "description": "Persona theme for NodeBB",
+  "devDependencies": {},
+  "homepage": "https://github.com/psychobunny/nodebb-theme-persona#readme",
+  "keywords": [
+    "bootstrap",
+    "forum",
+    "nodebb",
+    "responsive",
+    "theme"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "theme.less",
+  "name": "nodebb-theme-persona",
+  "nbbpm": {
+    "compatibility": "^0.8.2"
+  },
+  "optionalDependencies": {},
+  "readme": "Persona theme for NodeBB\r\n====================\r\n\r\nPersona is the new default theme for NodeBB as of v0.7.1\r\n\r\n## Addons\r\n\r\n[Recent Cards](https://github.com/psychobunny/nodebb-plugin-recent-cards)\r\n\r\n## Screenshots\r\n\r\n![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/570/286/570286-db378dfd28256a8fabacc9129b3638dc678ac393.png?1439315393)\r\n\r\n<br />\r\n![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/570/287/570287-5875c63ce086d361b76d94e5bc7cc88a5fd34b8b.png?1439315419)\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-theme-persona.git"
+  },
+  "version": "4.0.31"
+}
